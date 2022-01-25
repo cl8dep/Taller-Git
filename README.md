@@ -1,4 +1,4 @@
-## Abajo el bloqueo
+## Abajo el bloqueo y el imperialismo yanki
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
