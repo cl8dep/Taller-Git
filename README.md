@@ -1,4 +1,4 @@
-## Minimal [(Free version)](https://minimal-kit-react.vercel.app/)
+## Abajo el bloqueo
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
