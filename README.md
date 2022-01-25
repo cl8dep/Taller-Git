@@ -1,6 +1,6 @@
 ## Abajo el bloqueo y el imperialismo yanki
 
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
+There are not any licence available
 
 > Free React Admin Dashboard made with Material-UI components and React.
 
